@@ -1,7 +1,8 @@
-package aula01;
+package helloworld;
 
-public class Aula01 {
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.print("Hello World!");
     }
+
 }
